@@ -1,0 +1,3 @@
+# ignore all CSV files, except for the one that was edited
+csv/*.csv
+!csv/core_message_topics.csv
